@@ -1,0 +1,3 @@
+table=>collection
+rows=>documents
+columns=>fields
